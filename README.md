@@ -7,13 +7,15 @@
 ### git安装  
 在win安装git，参考资料：https://www.cnblogs.com/rcg714786690/p/12410839.html
 
+https://blog.csdn.net/sunrainamazing/article/details/80749273
+
+https://www.cnblogs.com/NotEnough/p/9844418.html
+
+
+
 <hr>
 
 ### mac和win共享文件
 
 参考：https://blog.csdn.net/qq_45859054/article/details/105063438?fps=1&locationNum=2
-
-https://blog.csdn.net/sunrainamazing/article/details/80749273
-
-https://www.cnblogs.com/NotEnough/p/9844418.html
 
