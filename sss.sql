@@ -1,3 +1,3 @@
 select *
 from aa
-where 
+where aa>1
